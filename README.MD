@@ -3,7 +3,7 @@ npm install @react-navigation/native react-native-reanimated react-native-gestur
 
 npm install react-native-reanimated@next
 	- remember to reset cache after installed
-		- npx react-native start --reset-cache
+	- npx react-native start --reset-cache
 
 npm install react-redux redux redux-thunk
 
